@@ -1,0 +1,92 @@
+[
+  {
+    "id_expediente": "9e3062d4",
+    "id_llamada": "CALL-2026-0001",
+    "prompt_original": "El servicio de atención telefónica fue impecable, resolvieron mi problema con la factura en menos de cinco minutos.",
+    "analisis": {
+      "sentiment": "NEUTRAL",
+      "score": 0.65,
+      "tema": "Consultas y Facturación General",
+      "resumen": "Petición estándar de información acerca de tarifas y condiciones contractuales.",
+      "recommendation": "Enviar folleto explicativo actualizado y programar seguimiento comercial."
+    },
+    "metadatos": {
+      "timestamp_utc": "2026-10-19T14:38:32.698274+00:00",
+      "latencia_ms": 150.44,
+      "proveedor": "Simulador Cognitivo Local (compatible con API Gemini)",
+      "modo": "DETERMINISTIC_PARSER"
+    }
+  },
+  {
+    "id_expediente": "d60ce41c",
+    "id_llamada": "CALL-2026-0002",
+    "prompt_original": "La aplicación lleva caída toda la mañana con error 500 y me ha bloqueado la entrega a clientes. Es inadmisible.",
+    "analisis": {
+      "sentiment": "NEGATIVE",
+      "score": 0.88,
+      "tema": "Infraestructura y Estabilidad Técnica",
+      "resumen": "Se reportan incidencias recurrentes de conectividad y demora en la entrega.",
+      "recommendation": "Abrir ticket de prioridad alta con el equipo de DevOps/Sistemas."
+    },
+    "metadatos": {
+      "timestamp_utc": "2026-10-19T14:38:32.849240+00:00",
+      "latencia_ms": 150.47,
+      "proveedor": "Simulador Cognitivo Local (compatible con API Gemini)",
+      "modo": "DETERMINISTIC_PARSER"
+    }
+  },
+  {
+    "id_expediente": "dde9cb71",
+    "id_llamada": "CALL-2026-0003",
+    "prompt_original": "Quisiera solicitar información detallada sobre las condiciones del plan anual y las formas de pago disponibles.",
+    "analisis": {
+      "sentiment": "NEUTRAL",
+      "score": 0.65,
+      "tema": "Consultas y Facturación General",
+      "resumen": "Petición estándar de información acerca de tarifas y condiciones contractuales.",
+      "recommendation": "Enviar folleto explicativo actualizado y programar seguimiento comercial."
+    },
+    "metadatos": {
+      "timestamp_utc": "2026-10-19T14:38:32.999910+00:00",
+      "latencia_ms": 150.19,
+      "proveedor": "Simulador Cognitivo Local (compatible con API Gemini)",
+      "modo": "DETERMINISTIC_PARSER"
+    }
+  },
+  {
+    "id_expediente": "5571330d",
+    "id_llamada": "CALL-2026-0004",
+    "prompt_original": "Los envíos siempre llegan con un día de retraso y los paquetes vienen con marcas de golpes. Deben mejorar la logística.",
+    "analisis": {
+      "sentiment": "NEGATIVE",
+      "score": 0.88,
+      "tema": "Infraestructura y Estabilidad Técnica",
+      "resumen": "Se reportan incidencias recurrentes de conectividad y demora en la entrega.",
+      "recommendation": "Abrir ticket de prioridad alta con el equipo de DevOps/Sistemas."
+    },
+    "metadatos": {
+      "timestamp_utc": "2026-10-19T14:38:33.150689+00:00",
+      "latencia_ms": 150.32,
+      "proveedor": "Simulador Cognitivo Local (compatible con API Gemini)",
+      "modo": "DETERMINISTIC_PARSER"
+    }
+  },
+  {
+    "id_expediente": "d1a49610",
+    "id_llamada": "CALL-2026-0005",
+    "prompt_original": "Una maravilla de plataforma, la interfaz es intuitiva y el soporte técnico nos atendió de diez.",
+    "analisis": {
+      "sentiment": "POSITIVE",
+      "score": 0.94,
+      "tema": "Atención al Cliente y Soporte",
+      "resumen": "El cliente manifiesta alta satisfacción por la prontitud y la amabilidad del servicio.",
+      "recommendation": "Registrar caso de éxito y felicitar al operador de soporte."
+    },
+    "metadatos": {
+      "timestamp_utc": "2026-10-19T14:38:33.301433+00:00",
+      "latencia_ms": 150.12,
+      "proveedor": "Simulador Cognitivo Local (compatible con API Gemini)",
+      "modo": "DETERMINISTIC_PARSER"
+    }
+  }
+]
